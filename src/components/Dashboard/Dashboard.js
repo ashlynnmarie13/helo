@@ -28,7 +28,7 @@ class Dashboard extends Component {
   resetSearch = e => {
     this.setState({ search: e.target.value });
   };
-  //GO OVER THIS
+
   render() {
     const posts = this.state.posts.map((posts, i) => {
       return (
