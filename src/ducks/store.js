@@ -1,4 +1,4 @@
-//HOW DO I KNOW WHATS FROM REDUX VS REACT REDUX
+
 import { createStore } from "redux";
 import reducer from "./reducer";
 
